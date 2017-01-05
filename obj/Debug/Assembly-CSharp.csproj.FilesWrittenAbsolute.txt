@@ -1,0 +1,17 @@
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/obj/Debug/Assembly-CSharp.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/UnityEngine.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/UnityEditor.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Mono.Cecil.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Unity.DataContract.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/andre.fohlin/Documents/workspace/UnityProjects/Jugglers/Temp/bin/Debug/Mono.Cecil.Mdb.dll
