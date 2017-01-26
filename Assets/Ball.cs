@@ -4,11 +4,11 @@ using System.Collections;
 public class Ball : MonoBehaviour {
 
 	public Juggler owner;
-
+	public Vector3 destination;
 	private bool dropped;
 	// Use this for initialization
 	void Start () {
-		
+		destination = transform.position;
 	}
 	
 	// Update is called once per frame
@@ -17,7 +17,7 @@ public class Ball : MonoBehaviour {
 	}
 
 	void OnCollisionEnter(Collision collision) { 
-		Debug.Log("Touched ground");
+		//Debug.Log("Touched ground");
 		dropped = true;
 	}
 
